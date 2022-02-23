@@ -454,3 +454,25 @@ button:hover,
 .button.button-xing:focus {
   filter: brightness(90%);
 }
+
+/* Kwai */
+.button.button-kwai {
+  color: #ffffff;
+  background-color: #1f232b;
+}
+.button.button-kwai:hover,
+.button.button-kwai:focus {
+  filter: brightness(90%);
+}
+
+
+/* Kwai */
+.button.button-cafecito {
+  color: #ffffff;
+  background-color: #1f232b;
+}
+.button.button-cafecito:hover,
+.button.button-cafecito:focus {
+  filter: brightness(90%);
+}
+
