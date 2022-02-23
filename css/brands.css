@@ -466,10 +466,14 @@ button:hover,
 }
 
 
-/* Kwai */
+
+/* Cafecito */
 .button.button-cafecito {
-  color: #ffffff;
-  background-color: #1f232b;
+  color: #8fa2cc;
+  border-style: solid;
+  border-color: #8fa2cc;
+  border-width: 2px;
+  background-color: #ffffff;
 }
 .button.button-cafecito:hover,
 .button.button-cafecito:focus {
