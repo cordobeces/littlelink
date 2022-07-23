@@ -480,3 +480,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Cafecito */
+.button.button-festival-cordobeces {
+  color: #437344;
+  border-style: solid;
+  border-color: #437344;
+  border-width: 2px;
+  background-color: #ffebd8;
+}
+.button.button-festival-cordobeces:hover,
+.button.button-festival-cordobeces:focus {
+  filter: brightness(90%);
+}
+
